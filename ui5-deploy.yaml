@@ -14,9 +14,9 @@ builder:
       afterTask: generateCachebusterInfo
       configuration:
         target:
-          destination: development_S32_110
+          destination: development_S32
           url: http://s4dev.sap.sce.com:443
-          client: '110'
+          client: '100'
         app:
           name: ZMM_T1_MATMAST
           package: ZMM_T1
