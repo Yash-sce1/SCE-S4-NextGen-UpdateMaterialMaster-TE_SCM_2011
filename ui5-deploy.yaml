@@ -18,7 +18,7 @@ builder:
           url: http://s4dev.sap.sce.com:443
           client: '100'
         app:
-          name: ZMM_T1_MATMAST
+          name: ZSCM_LEADTM_UPD
           package: ZMM_T1
           transport: S32K904766
         exclude:
